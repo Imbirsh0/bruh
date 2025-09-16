@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Praktsharp4\bin\Debug\net8.0\Praktsharp4.exe
+C:\Users\HP\source\repos\Praktsharp4\bin\Debug\net8.0\Praktsharp4.deps.json
+C:\Users\HP\source\repos\Praktsharp4\bin\Debug\net8.0\Praktsharp4.runtimeconfig.json
+C:\Users\HP\source\repos\Praktsharp4\bin\Debug\net8.0\Praktsharp4.dll
+C:\Users\HP\source\repos\Praktsharp4\bin\Debug\net8.0\Praktsharp4.pdb
+C:\Users\HP\source\repos\Praktsharp4\obj\Debug\net8.0\Praktsharp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Praktsharp4\obj\Debug\net8.0\Praktsharp4.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Praktsharp4\obj\Debug\net8.0\Praktsharp4.AssemblyInfo.cs
+C:\Users\HP\source\repos\Praktsharp4\obj\Debug\net8.0\Praktsharp4.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Praktsharp4\obj\Debug\net8.0\Praktsharp4.dll
+C:\Users\HP\source\repos\Praktsharp4\obj\Debug\net8.0\refint\Praktsharp4.dll
+C:\Users\HP\source\repos\Praktsharp4\obj\Debug\net8.0\Praktsharp4.pdb
+C:\Users\HP\source\repos\Praktsharp4\obj\Debug\net8.0\Praktsharp4.genruntimeconfig.cache
+C:\Users\HP\source\repos\Praktsharp4\obj\Debug\net8.0\ref\Praktsharp4.dll

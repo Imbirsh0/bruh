@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Praktsharp4/1.0.0": {
+        "runtime": {
+          "Praktsharp4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Praktsharp4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
