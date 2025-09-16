@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Прога C#\Praktsharp10\bin\Debug\net8.0\Praktsharp10.exe
+C:\Users\HP\Desktop\Прога C#\Praktsharp10\bin\Debug\net8.0\Praktsharp10.deps.json
+C:\Users\HP\Desktop\Прога C#\Praktsharp10\bin\Debug\net8.0\Praktsharp10.runtimeconfig.json
+C:\Users\HP\Desktop\Прога C#\Praktsharp10\bin\Debug\net8.0\Praktsharp10.dll
+C:\Users\HP\Desktop\Прога C#\Praktsharp10\bin\Debug\net8.0\Praktsharp10.pdb
+C:\Users\HP\Desktop\Прога C#\Praktsharp10\obj\Debug\net8.0\Praktsharp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Прога C#\Praktsharp10\obj\Debug\net8.0\Praktsharp10.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Прога C#\Praktsharp10\obj\Debug\net8.0\Praktsharp10.AssemblyInfo.cs
+C:\Users\HP\Desktop\Прога C#\Praktsharp10\obj\Debug\net8.0\Praktsharp10.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Прога C#\Praktsharp10\obj\Debug\net8.0\Praktsharp10.dll
+C:\Users\HP\Desktop\Прога C#\Praktsharp10\obj\Debug\net8.0\refint\Praktsharp10.dll
+C:\Users\HP\Desktop\Прога C#\Praktsharp10\obj\Debug\net8.0\Praktsharp10.pdb
+C:\Users\HP\Desktop\Прога C#\Praktsharp10\obj\Debug\net8.0\Praktsharp10.genruntimeconfig.cache
+C:\Users\HP\Desktop\Прога C#\Praktsharp10\obj\Debug\net8.0\ref\Praktsharp10.dll
