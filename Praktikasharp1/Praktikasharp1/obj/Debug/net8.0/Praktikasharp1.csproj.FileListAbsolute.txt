@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Прога C#\Praktikasharp1\Praktikasharp1\bin\Debug\net8.0\Praktikasharp1.exe
+C:\Users\HP\Desktop\Прога C#\Praktikasharp1\Praktikasharp1\bin\Debug\net8.0\Praktikasharp1.deps.json
+C:\Users\HP\Desktop\Прога C#\Praktikasharp1\Praktikasharp1\bin\Debug\net8.0\Praktikasharp1.runtimeconfig.json
+C:\Users\HP\Desktop\Прога C#\Praktikasharp1\Praktikasharp1\bin\Debug\net8.0\Praktikasharp1.dll
+C:\Users\HP\Desktop\Прога C#\Praktikasharp1\Praktikasharp1\bin\Debug\net8.0\Praktikasharp1.pdb
+C:\Users\HP\Desktop\Прога C#\Praktikasharp1\Praktikasharp1\obj\Debug\net8.0\Praktikasharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Прога C#\Praktikasharp1\Praktikasharp1\obj\Debug\net8.0\Praktikasharp1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Прога C#\Praktikasharp1\Praktikasharp1\obj\Debug\net8.0\Praktikasharp1.AssemblyInfo.cs
+C:\Users\HP\Desktop\Прога C#\Praktikasharp1\Praktikasharp1\obj\Debug\net8.0\Praktikasharp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Прога C#\Praktikasharp1\Praktikasharp1\obj\Debug\net8.0\Praktikasharp1.dll
+C:\Users\HP\Desktop\Прога C#\Praktikasharp1\Praktikasharp1\obj\Debug\net8.0\refint\Praktikasharp1.dll
+C:\Users\HP\Desktop\Прога C#\Praktikasharp1\Praktikasharp1\obj\Debug\net8.0\Praktikasharp1.pdb
+C:\Users\HP\Desktop\Прога C#\Praktikasharp1\Praktikasharp1\obj\Debug\net8.0\Praktikasharp1.genruntimeconfig.cache
+C:\Users\HP\Desktop\Прога C#\Praktikasharp1\Praktikasharp1\obj\Debug\net8.0\ref\Praktikasharp1.dll
