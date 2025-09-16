@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Прога C#\Prakikasharp2\bin\Debug\net8.0\Prakikasharp2.exe
+C:\Users\HP\Desktop\Прога C#\Prakikasharp2\bin\Debug\net8.0\Prakikasharp2.deps.json
+C:\Users\HP\Desktop\Прога C#\Prakikasharp2\bin\Debug\net8.0\Prakikasharp2.runtimeconfig.json
+C:\Users\HP\Desktop\Прога C#\Prakikasharp2\bin\Debug\net8.0\Prakikasharp2.dll
+C:\Users\HP\Desktop\Прога C#\Prakikasharp2\bin\Debug\net8.0\Prakikasharp2.pdb
+C:\Users\HP\Desktop\Прога C#\Prakikasharp2\obj\Debug\net8.0\Prakikasharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Прога C#\Prakikasharp2\obj\Debug\net8.0\Prakikasharp2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Прога C#\Prakikasharp2\obj\Debug\net8.0\Prakikasharp2.AssemblyInfo.cs
+C:\Users\HP\Desktop\Прога C#\Prakikasharp2\obj\Debug\net8.0\Prakikasharp2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Прога C#\Prakikasharp2\obj\Debug\net8.0\Prakikasharp2.dll
+C:\Users\HP\Desktop\Прога C#\Prakikasharp2\obj\Debug\net8.0\refint\Prakikasharp2.dll
+C:\Users\HP\Desktop\Прога C#\Prakikasharp2\obj\Debug\net8.0\Prakikasharp2.pdb
+C:\Users\HP\Desktop\Прога C#\Prakikasharp2\obj\Debug\net8.0\Prakikasharp2.genruntimeconfig.cache
+C:\Users\HP\Desktop\Прога C#\Prakikasharp2\obj\Debug\net8.0\ref\Prakikasharp2.dll
